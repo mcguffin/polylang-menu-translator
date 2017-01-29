@@ -50,9 +50,9 @@ Core\Core::instance();
 
 if ( is_admin() || defined( 'DOING_AJAX' ) ) {
 
+	Admin\MenuEdit::instance();
 
 /*
-	Admin\Admin::instance();
 	Admin\Tools::instance();
 	Admin\Settings::instance();
 

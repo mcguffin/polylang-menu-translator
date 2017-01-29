@@ -1,4 +1,5 @@
 Polylang Menu Translator
-===============
+========================
 
-#### Developer info here. ####
+Generates translated WordPress-Menus.
+
